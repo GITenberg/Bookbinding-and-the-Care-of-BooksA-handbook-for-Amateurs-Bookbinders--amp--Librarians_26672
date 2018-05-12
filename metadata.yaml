@@ -1,0 +1,43 @@
+_repo: Bookbinding-and-the-Care-of-BooksA-handbook-for-Amateurs-Bookbinders--amp--Librarians_26672
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rooke, Noel
+    birthdate: 1881
+    gutenberg_agent_id: '32164'
+    url: http://www.gutenberg.org/2009/agents/32164
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cockerell, Douglas
+    birthdate: 1870
+    deathdate: 1945
+    gutenberg_agent_id: '32163'
+    url: http://www.gutenberg.org/2009/agents/32163
+  editor:
+    agent_name: Lethaby, W. R. (William Richard)
+    alias: Lethaby, William Richard
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '25114'
+    url: http://www.gutenberg.org/2009/agents/25114
+    wikipedia: http://en.wikipedia.org/wiki/William_Lethaby
+description: ''
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2008-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books -- Conservation and restoration'
+- !lcsh 'Bookbinding -- Handbooks, manuals, etc.'
+- !lcc 'Z'
+title: "Bookbinding, and the Care of Books\r\nA Handbook for Amateurs, Bookbinders\
+  \ & Librarians"
+url: http://www.gutenberg.org/ebooks/26672
